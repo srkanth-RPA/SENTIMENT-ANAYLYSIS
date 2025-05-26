@@ -36,6 +36,9 @@ This project is an end-to-end implementation of a sentiment analysis classifier 
 
 The dataset used is a small sample of manually labeled text reviews. You can easily extend this with a larger dataset or connect to sources like Twitter or review platforms.
 
+## OUTPUT:-
+![Image](https://github.com/user-attachments/assets/ead7c7df-0ba9-4491-a68f-413fec9ea6a2)
+
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
